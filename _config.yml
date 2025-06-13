@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Adrian Jackson's Personal Website"
+title                    : "Adrian Homepage"
 title_separator          : "-"
 name                     : &name "Adrian Jackson"
 description              : &description "Aspiring PhD Student studying Electrical Engineering"
@@ -22,15 +22,11 @@ repository               : "adrian-jackson/adrian-jackson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "My Links"
   pronouns         : "He/ Him"  
   bio              : "Aspiring PhD student dedicated to solving challenging and relevant problems within advanced manufacturing 
-                      from a controls and machine learning perspective. With experience in both academic and industry settings, 
-                      I bring a strong ability to outline and understand complex problems, develop rigorous solutions, and 
-                      collaborate effectively within diverse teams. I am also committed to outreach and education, having led
-                      multiple student organizations and events dedicated to promoting research and academic knowledge across 
-                      all age groups."
+                      from a controls and machine learning perspective."
   location         : "New Jersey, USA"
   employer         : "Rutgers University / Colgate-Palmolive"
   uri              : # URL
