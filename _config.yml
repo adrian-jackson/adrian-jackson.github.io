@@ -9,36 +9,41 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Adrian Jackson's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Adrian Jackson"
+description              : &description "Aspiring PhD Student studying Electrical Engineering"
+url                      : https://adrian-jackson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "adrian-jackson/adrian-jackson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "files/profile.jpg"
+  name             : "My Links"
+  pronouns         : "He/ Him"  
+  bio              : "Aspiring PhD student dedicated to solving challenging and relevant problems within advanced manufacturing 
+                      from a controls and machine learning perspective. With experience in both academic and industry settings, 
+                      I bring a strong ability to outline and understand complex problems, develop rigorous solutions, and 
+                      collaborate effectively within diverse teams. I am also committed to outreach and education, having led
+                      multiple student organizations and events dedicated to promoting research and academic knowledge across 
+                      all age groups."
+  location         : "New Jersey, USA"
+  employer         : "Rutgers University / Colgate-Palmolive"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akj60@scarletmail.rutgers.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vhc6vBkuDdUC&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-4566-2129"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -51,7 +56,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
