@@ -13,7 +13,7 @@ title                    : "Adrian's Homepage"
 title_separator          : "-"
 name                     : &name "Adrian Jackson"
 description              : &description "Aspiring PhD Student studying Electrical Engineering"
-url                      : https://adrian-jackson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://adrian-jackson.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrian-jackson/adrian-jackson.github.io"
 
@@ -22,7 +22,7 @@ repository               : "adrian-jackson/adrian-jackson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "My Links"
   pronouns         : "He/ Him"  
   bio              : "Aspiring PhD student dedicated to solving challenging and relevant problems within advanced manufacturing 

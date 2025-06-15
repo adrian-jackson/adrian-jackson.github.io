@@ -29,48 +29,48 @@ Research Experience
 * **Academic Year Research Intern**  
   *August 2024 – May 2025*  
   New Jersey Space Grant Consortium  
-  Created a control system to detect and prevent 3D printing stringing defects in real-time leveraging Computer Vision and Reinforcement Learning
+  -Created a control system to detect and prevent 3D printing stringing defects in real-time leveraging Computer Vision and Reinforcement Learning
 
 * **Summer Research Intern**  
   *May 2024 – August 2024*  
   New Jersey Space Grant Consortium  
-  Collaborated with NASA’s Space Technology Mission Directorate to develop in-situ hot rolling compression of FFF 3D printed parts to enhance mechanical strength and reduce defects of parts.  
-  Developed a machine learning model to predict changes in geometry due to the hot rolling process.
+  -Collaborated with NASA’s Space Technology Mission Directorate to develop in-situ hot rolling compression of FFF 3D printed parts to enhance mechanical strength and reduce defects of parts.  
+  -Developed a machine learning model to predict changes in geometry due to the hot rolling process.
 
 * **Research Assistant**  
   *July 2021 - August 2021*  
   Kean University  
-  Assisted Dr. David Joiner at Kean University in creating a convolutional neural network to detect and identify pollen presence and types in conjunction with the Pollen Underground initiative.
+  -Assisted Dr. David Joiner at Kean University in creating a convolutional neural network to detect and identify pollen presence and types in conjunction with the Pollen Underground initiative.
 
 Professional Experience
 ======
 * **Manufacturing R&D Intern**  
   *June 2025 – August 2025*  
   Colgate-Palmolive  
-  Creating a manufacturing testbed with AVEVA WonderWare ArchestrA, InTouch, InBatch, Windows Server 2019, and PLCs and testing the effect of various cybersecurity policies on system functionality
+  -Creating a manufacturing testbed with AVEVA WonderWare ArchestrA, InTouch, InBatch, Windows Server 2019, and PLCs and testing the effect of various cybersecurity policies on system functionality
 
 * **Software Intern**  
   *August 2021 – September 2021*  
   Anova LLC  
-  Scripted in Python to enable low-cost communication via RS 485 to industrial PLCs with Modbus.
+  -Scripted in Python to enable low-cost communication via RS 485 to industrial PLCs with Modbus.
 
 Academic Involvement and Leadership
 ======
 * **Inductee, Rutgers Cap & Skull Honor Society**  
   *May 2025 – Present*  
-  Selected as one of 18 students from over 30,000 for Cap & Skull, Rutgers' premier senior honor society recognizing leadership, character, and excellence in academics, athletics, and the arts.
+  -Selected as one of 18 students from over 30,000 for Cap & Skull, Rutgers' premier senior honor society recognizing leadership, character, and excellence in academics, athletics, and the arts.
 
 * **Treasurer, IEEE Eta Kappa Nu (HKN)**  
   *May 2024 – Present*  
-  Managing club finances and reimbursements, worked with Rutgers SABO, and helped coordinate events.
+  -Managing club finances and reimbursements, worked with Rutgers SABO, and helped coordinate events.
 
 * **Senior Member, Rutgers IEEE ML/AI Club**  
   *September 2023 – Present*  
-  Creating various ML projects, entering in Kaggle competitions, and mentoring underclassmen.
+  -Creating various ML projects, entering in Kaggle competitions, and mentoring underclassmen.
 
 * **Review Program Director, Aresty Rutgers Undergraduate Research Journal (RURJ)**  
   *September 2022 - Present*  
-  Editing papers submitted to RURJ by undergraduates, taught a class educating other students on peer editing.
+  -Editing papers submitted to RURJ by undergraduates, taught a class educating other students on peer editing.
 
 Honors, Awards, and Grants
 ======
@@ -89,8 +89,8 @@ Campus Involvement
 * **Alumni Chair**  
   *June 2023 – May 2025*  
   Kappa Sigma Fraternity  
-  Contacted and coordinated with alumni to fundraise and coordinate fraternal events  
-  Drafted and edited alumni newsletter
+  -Contacted and coordinated with alumni to fundraise and coordinate fraternal events  
+  -Drafted and edited alumni newsletter
 
 Certifications
 ======
