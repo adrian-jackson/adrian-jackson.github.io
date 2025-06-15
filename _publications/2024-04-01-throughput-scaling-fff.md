@@ -1,13 +1,13 @@
 ---
-title: "FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks"
+title: "Throughput scaling and thermomechanical behaviour in multiplexed fused filament fabrication."
 collection: publications
 category: manuscripts
-permalink: /publication/2024-12-01-fdm-bench
-excerpt: 'Presents FDM-Bench, a benchmarking suite for testing LLMs on tasks relevant to FDM-based additive manufacturing.'
+permalink: /publication/2024-04-01-throughput-scaling-fff.md
+excerpt: "A multi-extruder-single-gantry machine tool architecture was developed to increase printing speed without sacrificing geometric capabilities or increasing hardware complexity. Was also found to improve the part's mechanical properties via unusual temperature history"
 date: 2024-12-01
-venue: 'arXiv Preprint'
-paperurl: 'https://arxiv.org/abs/2412.09819'
-citation: 'Eslaminia, A., Jackson, A., Tian, B., Stern, A., Gordon, H., Malhotra, R., Nahrstedt, K., & Shao, C. (2024). "FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks." <i>arXiv Preprint</i>, arXiv:2412.09819.'
+venue: 'CIRP Annals'
+paperurl: 'https://doi.org/10.1016/j.cirp.2024.04.024'
+citation: Malhotra, R., Cleeman, J., **Jackson, A.**, Esola, S., & Shao, C. (2024). Throughput scaling and thermomechanical behaviour in multiplexed fused filament fabrication. CIRP Annals, 73(1), 177-180.https://doi.org/10.1016/j.cirp.2024.04.024
 ---
 
 

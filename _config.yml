@@ -22,7 +22,7 @@ repository               : "adrian-jackson/adrian-jackson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "My Links"
   pronouns         : "He/ Him"  
   bio              : "Aspiring PhD student dedicated to solving challenging and relevant problems within advanced manufacturing 
