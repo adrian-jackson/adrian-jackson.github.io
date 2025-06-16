@@ -3,7 +3,7 @@ title: "Panelist - Rutgers Undergraduate Discovery Day"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Aresty Center for Undergraduate Research, Rutgers University"
 date: 2015-01-01
 location: "City, Country"
 ---

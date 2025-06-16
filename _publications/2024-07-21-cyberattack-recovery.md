@@ -7,7 +7,7 @@ excerpt: 'Details a real-time framework for recovering from cyberattacks in cybe
 date: 2024-07-21
 venue: 'ISFA 2024, Seattle, WA'
 paperurl: 'https://doi.org/10.1115/ISFA2024-139964'
-citation: 'Mangrolia, B., Cleeman, J., Patel, A., **Jackson, A.**, & Malhotra, R. (2024). "Real-Time Recovery from Cyberattacks on Manufacturing Processes." <i>Proceedings of the 2024 International Symposium on Flexible Automation</i>, Seattle, WA.'
+citation: 'Mangrolia, B., Cleeman, J., Patel, A., <strong> Jackson, A.</strong>, & Malhotra, R. (2024). "Real-Time Recovery from Cyberattacks on Manufacturing Processes." <i>Proceedings of the 2024 International Symposium on Flexible Automation</i>, Seattle, WA.'
 ---
 
 

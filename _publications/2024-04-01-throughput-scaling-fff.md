@@ -8,7 +8,7 @@ excerpt: "A multi-extruder-single-gantry machine tool architecture was developed
 date: 2024-12-01
 venue: 'CIRP Annals'
 paperurl: 'https://doi.org/10.1016/j.cirp.2024.04.024'
-citation: Malhotra, R., Cleeman, J., **Jackson, A.**, Esola, S., & Shao, C. (2024). Throughput scaling and thermomechanical behaviour in multiplexed fused filament fabrication. CIRP Annals, 73(1), 177-180.https://doi.org/10.1016/j.cirp.2024.04.024
+citation: "Malhotra, R., Cleeman, J., <strong> Jackson, A.</strong>, Esola, S., & Shao, C. (2024). Throughput scaling and thermomechanical behaviour in multiplexed fused filament fabrication. CIRP Annals, 73(1), 177-180.https://doi.org/10.1016/j.cirp.2024.04.024"
 ---
 
 
