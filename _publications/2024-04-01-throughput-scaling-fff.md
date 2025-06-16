@@ -2,6 +2,7 @@
 title: "Throughput scaling and thermomechanical behaviour in multiplexed fused filament fabrication."
 collection: publications
 category: manuscripts
+pubtype: journal
 permalink: /publication/2024-04-01-throughput-scaling-fff.md
 excerpt: "A multi-extruder-single-gantry machine tool architecture was developed to increase printing speed without sacrificing geometric capabilities or increasing hardware complexity. Was also found to improve the part's mechanical properties via unusual temperature history"
 date: 2024-12-01

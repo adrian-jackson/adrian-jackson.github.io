@@ -2,6 +2,7 @@
 title: "Toolpath Synthesis and Mechanical Properties in Multiplexed Fused Filament Fabrication"
 collection: publications
 category: manuscripts
+pubtype: conference
 permalink: /publication/2024-06-17-toolpath-synthesis-fff
 excerpt: 'Explores how toolpath decisions affect mechanical outcomes in high-speed multiplexed FFF printing systems.'
 date: 2024-06-17
