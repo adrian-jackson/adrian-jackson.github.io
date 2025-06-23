@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-Aresty
 venue: "Aresty Center for Undergraduate Research, Rutgers University"
-date: 2022-2025
+date_range: "2022-2025"
 location: "New Brunswick, USA"
 ---
 
