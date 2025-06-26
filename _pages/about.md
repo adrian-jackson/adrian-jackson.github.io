@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adrian Jackson"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
