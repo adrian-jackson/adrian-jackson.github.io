@@ -8,8 +8,4 @@ date_range: "2022-2025"
 location: "New Brunswick, USA"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
+Instructed an introductory programming course in MATLAB for first-year engineering students (14:332:127).

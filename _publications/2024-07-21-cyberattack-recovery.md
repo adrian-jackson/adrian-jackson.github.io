@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Recovery from Cyberattacks on Manufacturing Processes"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-07-21-cyberattack-recovery
 excerpt: 'Details a real-time framework for recovering from cyberattacks in cyber-physical manufacturing systems.'
 date: 2024-07-21

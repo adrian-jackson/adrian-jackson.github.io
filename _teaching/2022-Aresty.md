@@ -10,12 +10,14 @@ location: "New Brunswick, USA"
 
 I've been heavily involved in the Aresty Center for Undegraduate Reseearch at my alma mater, Rutgers University. Some of my specific involvements are below.
 
-Heading 1
-======
+# Fellow - Aresty Research Center
+Was selected as an Aresty fellow for the 2024-25 academic year and received a grant to fund my work on real-time mitigation of defects of FDM systems.
 
-Heading 2
-======
+# Research Assistant (RA) - Aresty Research Center
+Was selected as a Research Assistant for the 2023-2024 academic year and received research mentoring from experienced undergraduate Julianne Chan. 
 
-Panelist - Rutgers Undergraduate Discovery Day
-======
-I've served as a panelist on various student researcher panels, advising underclassmen on how to start research as an undergrad to springboard their future in graduate school, as well as research writing & publication.
+# Presenter - Aresty Research Symposium
+Presented at the Aresty Research Symposium in 2024 and 2025, on various works related to real-time control of additive manufacturing systems.
+
+# Panelist - Rutgers Undergraduate Discovery Day
+Served as a panelist on various student researcher panels, advising underclassmen on how to start research as an undergrad to springboard their future in graduate school, as well as research writing & publication.
