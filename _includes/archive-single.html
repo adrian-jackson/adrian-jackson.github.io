@@ -44,8 +44,8 @@
         {% elsif post.collection == 'teaching' %}
           <p>
             {{ post.type }}, <i>{{ post.venue }}</i>
-            {if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-            {if post.date_range %}, {{ post.date_range }}{% endif %}
+            {%if post.date%}, {{ post.date | date: "%Y" }}{% endif %}
+            {%if post.date_range%}, {{ post.date_range }}{% endif %}
           </p>
 
         {% elsif post.collection == 'publications' %}
