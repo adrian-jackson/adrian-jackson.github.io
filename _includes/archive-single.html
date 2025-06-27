@@ -38,9 +38,6 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.tags contains "date_range" %}
-          <p><i>{{ post.venue }}</i>, {{ post.content }}</p>
-
         {% elsif post.collection == 'teaching' %}
           <p>
             {{ post.type }}, <i>{{ post.venue }}</i>
@@ -61,7 +58,7 @@
           </p>
 
         {% elsif post.collection == 'awards' %}
-          <p>{{ post.award_name }}, <i>{{ post.organization }}</i>, {{ post.date | date: "%Y" }}</p>
+          <p>{{ post.title }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}, {{ post.location }}</p>
 
 
 
