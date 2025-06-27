@@ -8,7 +8,7 @@ date_range: "2022-2025"
 location: "New Brunswick, USA"
 ---
 
-I've been heavily involved in the Aresty Center for Undegraduate Reseearch at my alma mater, Rutgers University. Some of my specific involvements are below.
+I've been heavily involved in the Aresty Center for Undegraduate Reseearch at my alma mater, Rutgers University. I've detailed some of my specific involvements.
 
 # Fellow - Aresty Research Center
 Was selected as an Aresty fellow for the 2024-25 academic year and received a grant to fund my work on real-time mitigation of defects of FDM systems.
