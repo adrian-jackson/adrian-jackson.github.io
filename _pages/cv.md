@@ -47,7 +47,7 @@ Professional Experience
 * **Manufacturing R&D Intern**  
   *June 2025 – August 2025*  
   Colgate-Palmolive  
-  -Creating a manufacturing testbed with AVEVA WonderWare ArchestrA, InTouch, InBatch, Windows Server 2019, and PLCs and testing the effect of various cybersecurity policies on system functionality
+  -Creating a manufacturing testbed with AVEVA/WonderWare ArchestrA, InTouch, and InBatch, Windows Server 2019, and PLCs and testing the effect of various cybersecurity policies on system functionality
 
 * **Software Intern**  
   *August 2021 – September 2021*  
