@@ -42,7 +42,11 @@
           <p><i>{{ post.venue }}</i>, {{ post.content }}</p>
 
         {% elsif post.collection == 'teaching' %}
-          <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+          <p>
+            {{ post.type }}, <i>{{ post.venue }}</i>
+            {if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+            {if post.date_range %}, {{ post.date_range }}{% endif %}
+          </p>
 
         {% elsif post.collection == 'publications' %}
           <p>
