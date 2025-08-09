@@ -1,13 +1,12 @@
 ---
 title: "2025 Goldwater Scholar"
 collection: awards
+type: award
 permalink: /awards/goldwater
 venue: "Barry Goldwater Foundation"
 date: 04-01-2025
 location: "New Brunswick, USA"
 ---
-
-Selected as a 2025 Barry Goldwater Scholar.
 
 # Awardee
 Was selected as a 2025 Goldwater Scholar for my work in real-time control and defect correction of FDM systems. 
