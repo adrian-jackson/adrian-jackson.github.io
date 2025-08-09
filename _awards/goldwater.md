@@ -1,7 +1,7 @@
 ---
 title: "2025 Goldwater Scholar"
 collection: awards
-type: award
+#type: award
 permalink: /awards/goldwater
 venue: "Barry Goldwater Foundation"
 date: 04-01-2025
