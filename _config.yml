@@ -291,7 +291,7 @@ defaults:
   # _awards
   - scope:
       path: ""
-      type: portfolio
+      type: awards
     values:
       layout: single
       author_profile: true
