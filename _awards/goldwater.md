@@ -1,10 +1,10 @@
 ---
 title: "2025 Goldwater Scholar"
 collection: awards
-type: "Workshop"
+type: Scholarship
 permalink: /awards/goldwater
 venue: "Barry Goldwater Foundation"
-date: "04/01/2025"
+date: 04-01-2025
 location: "New Brunswick, USA"
 ---
 

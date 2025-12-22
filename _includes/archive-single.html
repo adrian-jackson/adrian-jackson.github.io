@@ -58,7 +58,10 @@
           </p>
 
         {% elsif post.collection == 'awards' %}
-          <p> <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}, {{ post.location }}</p>
+          <p> <i>{{ post.venue }}</i>, 
+            {{ post.date | date: "%Y" }}, 
+            {{ post.location }}
+          </p>
 
 
 
