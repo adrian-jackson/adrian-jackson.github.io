@@ -1,10 +1,10 @@
 ---
-title: "2025 Goldwater Scholar"
+title: "Rutgers Aresty Research Institute Awards"
 collection: awards
 type: "Workshop"
-permalink: /awards/goldwater
-venue: "Barry Goldwater Foundation"
-date: "04/01/2025"
+permalink: /awards/aresty
+venue: "Aresty Research Institute"
+date: "09/01/2024"
 location: "New Brunswick, USA"
 ---
 
