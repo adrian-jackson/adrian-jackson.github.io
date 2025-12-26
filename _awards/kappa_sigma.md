@@ -4,7 +4,7 @@ collection: awards
 type: Scholarship
 permalink: /awards/ks_sla
 venue: "Kappa Sigma Fraternity"
-date: 03-23-2025
+date: 2025-03-23
 location: "New Brunswick, USA"
 ---
 

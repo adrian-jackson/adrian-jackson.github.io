@@ -4,7 +4,7 @@ collection: awards
 type: Honor
 permalink: /awards/hkn_key_chapter
 venue: "IEEE HKN Student Leadership Conference"
-date: 10-17-2024
+date: 2024-10-17
 location: "Charlotte, SC, USA"
 ---
 
