@@ -8,5 +8,4 @@ date: 2025-04-15
 location: "New Brunswick, USA"
 ---
 
-# Awardee
 Was selected as a 2025 awardee of a School of Engineering Scholarship for scholastic excellence and achievement in undergraduate research.
