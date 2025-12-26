@@ -8,5 +8,4 @@ date: 2025-03-23
 location: "New Brunswick, USA"
 ---
 
-# Awardee
 Was selected as a 2025 Student Leadership Awardee for contribution to the main tenets of Kappa Sigma: Fellowship, Leadership, Scholarship, and Service - as well as academic, professional, athletic, and community service achievements.
