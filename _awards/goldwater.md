@@ -4,10 +4,9 @@ collection: awards
 type: Scholarship
 permalink: /awards/goldwater
 venue: "Barry Goldwater Foundation"
-date: 04-01-2025
+date: 2025-04-01
 location: "New Brunswick, USA"
 ---
 
-# Awardee
 Was selected as a 2025 Goldwater Scholar for my work in real-time control and defect correction of FDM systems. 
 <a href="/files/Goldwater Research Essay.pdf" download>Download Goldwater Research Essay</a>
