@@ -4,4 +4,3 @@ excerpt: "A multi-year project involving the creation of a multiplexed FFF 3D pr
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
